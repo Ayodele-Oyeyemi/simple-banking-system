@@ -1,0 +1,14 @@
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\bin\Debug\net9.0\SimpleBankingSystem.exe
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\bin\Debug\net9.0\SimpleBankingSystem.deps.json
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\bin\Debug\net9.0\SimpleBankingSystem.runtimeconfig.json
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\bin\Debug\net9.0\SimpleBankingSystem.dll
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\bin\Debug\net9.0\SimpleBankingSystem.pdb
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\SimpleBankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\SimpleBankingSystem.AssemblyInfoInputs.cache
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\SimpleBankingSystem.AssemblyInfo.cs
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\SimpleBankingSystem.csproj.CoreCompileInputs.cache
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\SimpleBankingSystem.dll
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\refint\SimpleBankingSystem.dll
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\SimpleBankingSystem.pdb
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\SimpleBankingSystem.genruntimeconfig.cache
+C:\Ayo Folder\simple-banking-system\SimpleBankingSystem\obj\Debug\net9.0\ref\SimpleBankingSystem.dll
